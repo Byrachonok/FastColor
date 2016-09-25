@@ -39,6 +39,9 @@ namespace Plugin
 
             //Перенос результатов из формы в тело плагина
             UserColor.currentColor = WinForm.ResultColor;
+
+            //Уничтожение формы
+            WinForm.Dispose();
         }
         #endregion
 
