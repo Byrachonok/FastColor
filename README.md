@@ -1,8 +1,8 @@
 # FastColor
-Плагин FastColor для AutoCAD. Создан в Visual Studio 2015 (.NET Framework 4.6). Использует AutoCAD API NET. Предназначен для быстрой смены цвета объектов.
+Плагин **FastColor** для AutoCAD. Создан в Visual Studio 2015 (.NET Framework 4.6). Использует AutoCAD API NET. Предназначен для быстрой смены цвета объектов.
 
 Плагин работает в двух режимах:
-  1. Ррежим настройки (представлен на скриншоте), в котором назначается цвет - **OptionsFastColor**
+  1. Режим настройки (представлен на скриншоте), в котором назначается цвет - **OptionsFastColor**
   2. Режим выделения, в котором пользователь выделяет объекты для перекраски - **F**
   
 ![Диалоговые окна настройки цвета](https://github.com/Byrachonok/FastColor/blob/master/FastColor/Media/FastColor.jpg)!
